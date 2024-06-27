@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bernatcs
+- 👋 Hi, I’m Bernat Cucarella Sifre
 - 👀 I’m interested in programming for music-projects with MIDI or sensors
 - 🌱 I’m currently learning MaxMSP and Python
 - 📫 Contact: info@bernatcucarella.com / www.bernatcucarella.com
