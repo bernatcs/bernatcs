@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernat Cucarella Sifre
-- 👀 I’m interested in programming for music-projects with MIDI or sensors
-- 🌱 I’m currently learning MaxMSP and Python
+- 👀 I’m interested in programming for music-projects
+- 🌱 I’m currently learning JavaScript and SwiftUI
 - 📫 Contact: info@bernatcucarella.com / www.bernatcucarella.com
 
 <!---
